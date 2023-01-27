@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osquelsantisteban
 - 👀 I’m work with Laravel, Sr Development
-- 🌱 I’m currently learning VueJS, Flutter and AWS
+- 🌱 I’m currently learning VueJS, React and AWS
 - 💞️ I’m looking to collaborate with companies or freelance
 - 📫 How to reach me ?
 
